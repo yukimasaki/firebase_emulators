@@ -1,4 +1,4 @@
-FROM node:17-alpine3.14
+FROM node:19.1.0-alpine3.16
 
 WORKDIR /var/www/html
 
